@@ -1,3 +1,5 @@
+### if you have any suggestions for this thing, hit me up on discord. (disc - Real_exile)
+
 ---
 
 # youtube-tips
