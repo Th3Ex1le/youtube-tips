@@ -72,7 +72,7 @@ this is a "guide" i put together in like ~20 minutes, and it’s pretty much jus
 2. [https://misgif.app/](https://misgif.app/) — search for gifs/memes by keywords.
 3. [https://badedits.com/](https://badedits.com/) — REALLY good for Premiere Pro. it’s a SUPER useful plugin that does many things, not gonna list them all here, mainly because I’m lazy.
 4. [https://contentcreatortemplates.com/video-assets/](https://contentcreatortemplates.com/video-assets) — free assets for editing
-5. [https://fmhy.net/video-tools#](https://fmhy.net/video-tools] — insane collection of free stuff, including editing software such as premiere, and free plugins as well.
+5. [https://fmhy.net/video-tools](https://fmhy.net/video-tools) — insane collection of free stuff, including editing software such as premiere, and free plugins as well.
 
 ---
 
