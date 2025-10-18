@@ -1,5 +1,11 @@
 ### if you have any suggestions for this thing, hit me up on discord. (disc - Real_exile)
 
+##rules for suggestions
+1. only suggest free things
+2. if you have tips, you *must* provide a source.
+3. if this gets big enough, ill create a discord so i wont have a billion DMS
+
+   
 ---
 
 # youtube-tips
