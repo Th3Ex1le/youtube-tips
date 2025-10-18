@@ -17,8 +17,8 @@ this is a "guide" i put together in like ~20 minutes, and it’s pretty much jus
 7. ignore the audience tab until you get more subscribers (NOT the community tab. audience tab is where you find which times your audience watches you at.)
 8. don’t do sub4sub. you look like an idiot. (can we point and laugh?) ((it KILLS your engagement ratio. this is because the people you sub to are likely not going to watch your video, and you’re not gonna watch theirs. it’s a suicide pact.))
 9. titles (subsection) ((make sure they pop out. idk how to describe it well, so just research others))
-     - titles that ask questions
-     - result + intrigue (e.g., *How I Made CRYSTAL METH In Real Life...*)
+     -titles that ask questions
+     -result + intrigue (e.g., *How I Made CRYSTAL METH In Real Life...*)
 10. don’t do compilations until your channel is monetized.
 11. use tools like vidiq. (if somebody reaches out to me with a FOSS alternative, hit me up and I’ll change this)
 12. don’t just copy other people. nobody likes a clone.
