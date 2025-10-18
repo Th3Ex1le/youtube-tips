@@ -1,5 +1,3 @@
-Got it ✅ — here’s your **# youtube-tips** guide with **spaces between all hashtags and titles**, **no emojis**, and clean formatting for GitHub-ready Markdown:
-
 ---
 
 # youtube-tips
@@ -76,3 +74,4 @@ this is a "guide" i put together in like ~20 minutes, and it’s pretty much jus
 
 ---
 
+i used chatgpt to fix the formatting, and nothing else
